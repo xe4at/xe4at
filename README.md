@@ -13,7 +13,6 @@
 I'm **Ehsan Atashkar**, a passionate **Frontend Developer** with a creative eye and a love for crafting interactive user experiences.
 
 🎯 Specializing in **Pixel-perfect Design**, **Modern UI/UX**, and **Clean, Scalable Code**.  
-💼 Currently working remotely with a German tech startup.  
 📍 Based in Iran — exploring global freelance and full-time opportunities.  
 🧠 Always learning, always building.  
 ❤️ Turning **design dreams** into **functional realities**.
