@@ -27,7 +27,7 @@ I'm **Ehsan Atashkar**, a passionate **Frontend Developer** with a creative eye 
 
 ---
 
-## 🌈 What I Enjoy Most
+## What I Enjoy Most
 
 - 🎨 Designing modern, fluid UIs from scratch  
 - 🧩 Transforming Figma designs into real-world products  
